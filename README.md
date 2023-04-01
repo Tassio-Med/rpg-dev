@@ -2,7 +2,8 @@
 
  Neste projeto foram aplicados os princípios da arquitetura `SOLID` e os princípios de `POO` em uma estrutura de jogos de interpretação de papéis, mais conhecidos como jogos `RPG` (_Role Playing Game_) 🎲.
 
- <summary><strong>🐉 Contextualizando 🐲</strong></summary><br />
+ <strong>🐉 Contextualizando 🐲</strong>
+ <br />
 
   No universo de Dungeons and Dragons - D&D, quase todos os seres que andam por essas terras pertencem a uma **raça** definida.
 
